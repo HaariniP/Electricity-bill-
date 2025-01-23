@@ -13,3 +13,7 @@ public class SimpleElectricityBill {
         scanner.close();
     }
 }
+
+Output 
+Enter the number of units consumed: 100
+Total electricity bill: Rs. 130.00
